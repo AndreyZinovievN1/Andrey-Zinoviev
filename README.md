@@ -8,7 +8,7 @@ I'm a developer interested in building useful applications, Telegram bots and we
 Currently exploring Android development with Kotlin and continuously improving my skills.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/A_n_d_r_e_y_X2)
-[![GitHub](https://github.com/AndreyZinovievN1)]
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreyZinovievN1)
 
 </div>
 
